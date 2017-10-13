@@ -3,7 +3,7 @@
 ## 1.1. C 
 <ul>
     <li><a href="C/binary-search.c">Binary Search</a></li>
-    <li></li>
+    <li>Missing Number</li>
     <li></li>
 </ul>
 

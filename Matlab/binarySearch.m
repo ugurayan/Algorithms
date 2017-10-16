@@ -1,4 +1,4 @@
-function [index] = binary-search(A, n, num)
+function [index] = binarySearch(A, n, num)
 %-------------------------------------------------------------------------
 %
 %                     Binary Search Algorithm
@@ -27,10 +27,6 @@ function [index] = binary-search(A, n, num)
 %            : O(1)          auxiliary space
 % ------------------------------------------------------------------------
 
-
-%
-%
-
     first = 1;
     last = n;
     flag = 0;
@@ -53,5 +49,4 @@ function [index] = binary-search(A, n, num)
     if flag == 0;
         index = -1;
     end
-
 end

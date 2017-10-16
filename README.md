@@ -1,7 +1,7 @@
 # 1. Algorithms
 
 Algorithms written in C, C++, C#, Java, JavaScript, Matlab, Python, R, Scala and TypeScript.
-
+ 
 ## 1.1. C 
 <ul>
     <li><a href="C/binary-search.c">Binary Search</a></li>
